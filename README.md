@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhi4244
-- 👀 I’m interested in technology 🤖 and space 🌌
+- 👀 I’m interested in robotics 🤖 and space 🌌
 - 🌱 I’m currently learning ...
 
 <!---
