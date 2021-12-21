@@ -4,14 +4,14 @@
 <br><hr><br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true&hide_border=true)<br><hr><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&)](https://github.com/abhi4244/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&hide_border=true)](https://github.com/abhi4244/github-readme-stats)
 <br><hr>
 <h1>✨ Special ✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical&hide_border=true" />
   </a>
 <a href="https://github.com/abhi4244/PWA" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true" />
 </a>
 
 
