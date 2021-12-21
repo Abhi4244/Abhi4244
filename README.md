@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=abhi4244&show_icons=true&theme=dark)
+
 
 <!---
 Abhi4244/Abhi4244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
