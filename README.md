@@ -8,10 +8,10 @@
 <br><hr>
 <h1>✨ Special ✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical&hide_border=true&show_owner=true" />
   </a>
 <a href="https://github.com/abhi4244/PWA" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
 </a>
 
 
