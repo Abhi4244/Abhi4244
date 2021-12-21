@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning ...
 <br><hr><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><hr><br>
+(https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><hr><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats)
 <br><hr>
-<h1>✨ special ✨</h1><br>
+<h1>✨ Special ✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical" />
   </a>
