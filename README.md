@@ -4,7 +4,7 @@
 <br><hr><br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><hr><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&)](https://github.com/abhi4244/github-readme-stats)
 <br><hr>
 <h1>✨ Special ✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
