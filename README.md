@@ -3,13 +3,12 @@
 - 🌱 I’m currently learning ...
 <br><br><hr><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><br><hr><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><hr><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats)
-<br><br><hr><br><br>
+<br><hr><br>
 <a href="https://github.com/abhi4244/210966" style="margin:20px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical" />
   </a>
-
 <a href="https://github.com/abhi4244/PWA" style="margin:20px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical" />
 </a>
