@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Abhi4244
 - 👀 I’m interested in robotics 🤖 and space 🌌
 - 🌱 I’m currently learning ...
+<br><br><hr><br><br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><br><hr><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&)](https://github.com/anuraghazra/github-readme-stats)
-<br><br><br>
+<br><br><hr><br><br>
 <a href="https://github.com/abhi4244/210966">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=cobalt" />
-</a>
+</a><br><br><hr><br><br>
 <a href="https://github.com/abhi4244/PWA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=cobalt" />
 </a>
