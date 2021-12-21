@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarav736&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=gradient&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
