@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 
 
-(https://github-readme-stats.vercel.app/api?username=abhi4244&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 <!---
