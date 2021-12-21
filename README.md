@@ -4,7 +4,9 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true)<br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhi4244)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
