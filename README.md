@@ -16,8 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=vue)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark)](https://git.io/streak-stats)<br>
 
 ![snake gif](https://github.com/Abhi4244/Abhi4244/blob/output/github-contribution-grid-snake.svg)
 
