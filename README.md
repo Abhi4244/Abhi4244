@@ -16,7 +16,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
 </a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4244" /> </p>
-![snake gif](https://github.com/YOUR_USERNAME/abhi4244/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/abhi4244/abhi4244/blob/output/github-contribution-grid-snake.gif)
 
 
 
