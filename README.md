@@ -4,7 +4,7 @@
 <br><hr>
 <h1>Live STATS.🖥️📊</h1><br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4244" />
+
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br><hr><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&hide_border=true)](https://github.com/abhi4244/github-readme-stats)
 <br><hr>
@@ -15,6 +15,7 @@
 <a href="https://github.com/abhi4244/PWA" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
 </a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4244" /> </p>
 
 
 
