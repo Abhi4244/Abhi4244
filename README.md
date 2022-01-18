@@ -19,7 +19,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark)](https://git.io/streak-stats)<br>
 
-![snake gif](https://github.com/Abhi4244/Abhi4244/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Abhi4244/Abhi4244/blob/output/github-contribution-grid-snake.svg" alt="snake" style="color:black;background-color:black;">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4244" /> </p>
 
