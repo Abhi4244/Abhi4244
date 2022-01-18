@@ -6,6 +6,7 @@
 <br>
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br><hr><br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br><hr><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&hide_border=true&layout=compact)](https://github.com/abhi4244/github-readme-stats)
 <br><hr>
 <h1>✨ Special ✨</h1><br>
