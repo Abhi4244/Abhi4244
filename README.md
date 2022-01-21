@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I’m @Abhi4244</h1><br><hr>
-<h3> 👀 I’m interested in robotics 🤖 and space 🌌</h3>
+<h1 align="center">👋 Hi, I’m @Abhi4244 from 🇮🇳 </h1><br><hr>
+<h3> 👀 I’m interested in robotics 🤖 and astronomy 🌌 and cool science ⚛</h3>
 <h3> 🌱 I’m currently learning ...</h3>
 <br><hr>
 <h1>Live STATS.🖥️📊</h1><br>
