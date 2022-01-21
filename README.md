@@ -22,7 +22,7 @@
 
 <img src="https://github.com/Abhi4244/Abhi4244/blob/output/github-contribution-grid-snake.svg" alt="snake" style="color:black;background-color:black;">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=0e75b6&style=flat" alt="abhi4244" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=00ff00&style=plastic " alt="abhi4244" height="40px" width="150px"  /> </p>
 
 
 
