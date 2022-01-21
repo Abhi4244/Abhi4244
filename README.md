@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m @Abhi4244 from 🇮🇳 </h1><br><hr>
 <h3> 👀 I’m interested in robotics 🤖 and astronomy 🌌 and cool science ⚛</h3>
 <h3> 🌱 I’m currently learning ...</h3>
+
 <br><hr>
 <h1>Live STATS.🖥️📊</h1><br>
 <br>
@@ -19,6 +20,18 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark)](https://git.io/streak-stats)<br>
+
+## ✉️ Find me on:
+<p align="center">
+  <a href="https://abhi4244.github.io/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>  <a href="mailto:ahluwaliaabhi4400@gmail.com"> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> </p>
+  <br>
+## 🧰 Languages and Tools: 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> </p>
 
 <img src="https://github.com/Abhi4244/Abhi4244/blob/output/github-contribution-grid-snake.svg" alt="snake" style="color:black;background-color:black;">
 
