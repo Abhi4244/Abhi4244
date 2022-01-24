@@ -36,11 +36,12 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  </p>
 <Hr><br>
-<b>📊 Github Contribution Graph</b><br><br>
+<b><h3>📊 Github Contribution Graph</b></h3><br><br>
 <p align="center"<a href="#"><img alt="Abhinav Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi4244&bg_color=grey&color=e05397&line=e05397&point=FFFFFF&hide_border=false&" /></a></p>
 <br><hr>
 
-
+Paying tribute to Netaji Subhash Chandra Bose on is 125 birthday:---
+<img src="army.jpg" height="125px" width="125px">
 
 <!---
 Abhi4244/Abhi4244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
