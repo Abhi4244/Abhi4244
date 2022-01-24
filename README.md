@@ -42,7 +42,7 @@
 
 Paying tribute to Netaji Subhash Chandra Bose on is 125 birthday:---
 <br><hr>
-<img src="Army.jpg" height="125px" width="125px">
+<img src="Army.jpg" >
 
 <!---
 Abhi4244/Abhi4244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
