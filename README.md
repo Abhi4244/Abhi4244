@@ -1,7 +1,9 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from 🇮🇳 </h1><br><hr>
+<h3>A passionate programmer 🌟 and web developer</h3>
 <h3> 👀 I’m interested in robotics 🤖 and astronomy 🌌 and cool science ⚛</h3>
 <h3> 🌱 I’m currently learning ...</h3>
 <h3>Programming is as easy as ABC - my great school teacher who motivated me</h3>
+
 <img src="https://github.com/Abhi4244/Abhi4244/blob/output/github-contribution-grid-snake.svg" alt="snake" style="color:black;background-color:black;">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi4244&label=Profile%20views&color=00ff00&style=plastic " alt="abhi4244" height="35px" width="150px"  /> </p>
 <hr>
