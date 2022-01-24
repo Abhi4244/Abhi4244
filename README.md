@@ -40,7 +40,7 @@
 <p align="center"<a href="#"><img alt="Abhinav Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi4244&bg_color=grey&color=e05397&line=e05397&point=FFFFFF&hide_border=false&" /></a></p>
 <br><hr>
 
-Paying tribute to Netaji Subhash Chandra Bose on is 125 birthday:---
+<h2>Paying tribute to Netaji Subhash Chandra Bose on is 125 birthday:---</h2>
 <br><hr>
 <img src="Army.jpg" style="border-radius:20px; border:8px ridge orange;">
 <br><hr>
