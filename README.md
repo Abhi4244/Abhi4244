@@ -59,7 +59,7 @@
 
 <h2>Paying tribute to Netaji Subhash Chandra Bose on his 125 birthday:---</h2>
 <br><hr>
-<img src="Army.jpg" >
+<img src="nation.jpg" >
 <h3><a href ="https://en.wikipedia.org/wiki/Subhas_Chandra_Bose" style="font-size:50px;">Find out More🔎</a></h3>
 <br><hr>
 
