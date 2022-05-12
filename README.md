@@ -22,7 +22,7 @@
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br>
 <b>🔥 Github Streaks</b><br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
 <hr><br>
 
   
