@@ -57,10 +57,7 @@
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
  </p>
 
-<Hr><br>
-<b><h1>📊 Github Contribution Graph</b></h1><br><br>
-  </br>
-<img alt="Abhinav's Activity Graph" src="https://abhinav-graph.herokuapp.com/graph/?username=Abhi4244&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 
 <br><hr>
 
