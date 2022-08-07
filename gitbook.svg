@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+   
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+
+
+
+.card__picture {
+  margin-bottom: 12px;
+border-radius:20px;
+padding:20px;
+
+
+}
+.card__picture img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius:20px;
+  animation: mymove 2s infinite;
+  padding:5px;
+}
+
+
+
+@keyframes mymove {
+                25% {
+                   background: linear-gradient(45deg, #e91e63, #ffeb3b);
+                }
+                50%{
+                    background-image: linear-gradient(45deg, #ccff00, #09afff);
+                }
+                100%{
+              background-image: linear-gradient(45deg, #3503ad, #f7308c);
+                }
+            }
+
+
+          </style>
+         
+ 
+       <div class="card__picture">
+          <img src="code.jpg" alt="" width="260"></img>
+        </div>
+</div>
+    </foreignObject>
+</svg>
