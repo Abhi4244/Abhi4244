@@ -3,6 +3,9 @@
 #HARGHARTIRANGA
 <h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="100%"height="290vh" >
 <h1 align="center">Get this book of web dev. @ 30% off !!</h1>
+ <div align="center">
+    <img src="book.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country</p>
 <br>
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from 🇮🇳</h1>
