@@ -1,5 +1,7 @@
+<html>
+<head><link rel="stylesheet" href="style.css"></head>
 #HARGHARTIRANGA
-<h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="auto"height="auto" >
+<h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="100%"height="290vh" >
 <h1 align="center">Get this book of web dev. @ 30% off !!</h1>
 <p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country</p>
 <br>
@@ -76,3 +78,4 @@
 Abhi4244/Abhi4244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</html>
