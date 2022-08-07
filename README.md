@@ -52,12 +52,7 @@
 <a href="https://github.com/abhi4244/PWA" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
 </a><br><hr>
-<h2> ✉️ Find me on:</h2>
-<p align="center">
-  <a href="https://abhi4244.github.io/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px;color:green;"> </a>  <a href="mailto:ahluwaliaabhi4400@gmail.com"> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> </p>
-  <hr><br>
+
 <h1>🧰 Languages and Tools: </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > 
@@ -68,7 +63,7 @@
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
  </p>
 
-
+<a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi4244&custom_title=Abhinav%20Ahluwalia's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
 
 <br><hr>
 
