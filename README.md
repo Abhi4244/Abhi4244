@@ -1,6 +1,11 @@
 #HARGHARTIRANGA
-
+<h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="auto"height="auto" >
+<h1 align="center">Get this book of web dev. @ 30% off !!</h1>
+<p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country</p>
+<br>
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from 🇮🇳</h1>
+
+
 <br><hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?!color=%2336BCF7&size=55&duration=5500&vCenter=true&width=1500&height=60&lines=A+passionate+programmer+%F0%9F%8C%9F+and+web+developer+%F0%9F%92%A0;%F0%9F%91%80+Interested+in+robotics+%F0%9F%A4%96+astronomy+%F0%9F%8C%8C;and+cool+science+%E2%9A%9B;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
