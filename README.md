@@ -1,11 +1,11 @@
-<html>
-<head><link rel="stylesheet" href="style.css"></head>
+
 #HARGHARTIRANGA
 <h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="100%"height="290vh" >
 <h1 align="center">Get this book of web dev. @ 30% off !!</h1>
- <div align="center"><img src="gitbook.svg" width="350" height="400" alt="css-in-readme">
+ <div align="center">
     <img src="code.jpg" width="350" height="400" alt="css-in-readme"><br>
-<h3><a href="https://www.amazon.in/Code-Tech-beginners-programming-Programming-ebook/dp/B09WRQ42XV/">Buy Now!</a></h3><h3><a href="https://astrofrank.ml/preview-ct1.html">Details</a></h3>
+<h3 ><a href="https://www.amazon.in/Code-Tech-beginners-programming-Programming-ebook/dp/B09WRQ42XV/">Buy Now!</a></h3>
+  <h3><a href="https://astrofrank.ml/preview-ct1.html">Details</a></h3>
 </div>
 <p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country</p>
 <br>
@@ -82,4 +82,4 @@
 Abhi4244/Abhi4244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</html>
+
