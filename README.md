@@ -1,7 +1,7 @@
 
 #HARGHARTIRANGA
 <h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="100%"height="290vh" >
-<h1 align="center">Get this book of web dev. @ 30% off !!</h1>
+<h1 align="center">Get this book of web dev. @ 50% off !!</h1>
  <div align="center">
     <img src="code.jpg" width="350" height="400" alt="css-in-readme"><br>
 <h3 ><a href="https://www.amazon.in/Code-Tech-beginners-programming-Programming-ebook/dp/B09WRQ42XV/">Buy Now!</a></h3>
