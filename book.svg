@@ -1,0 +1,209 @@
+<svg fill="none" viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+   
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+
+
+                .container {
+background:black;
+
+  width: 560px;
+  margin-left: 50px;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top:50px;
+color:black;
+font-family:Times New Roman;
+font-weight:bolder;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards__item {
+  height: 400px;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+   border-radius:20px;
+}
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 20;
+  width: 50%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.1);
+  pointer-events: none;
+}
+.card:nth-child(1) {
+   animation: mymove ease-in-out 2s infinite;
+}
+
+
+.card__frame {
+  position: absolute;
+   border-radius:20px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.card__picture {
+  margin-bottom: 12px;
+border-radius:20px;
+
+
+}
+.card__picture img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius:20px;
+}
+
+.card__title {
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.card__overlay {
+  position: absolute;
+  bottom: 50px;
+  right: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+  cursor: pointer;
+
+}
+.card__overlay::before {
+  content: "Read";
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.card__overlay:hover, .card__overlay:focus {
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: none;
+  border-radius: 20px;
+  opacity:1;
+
+}
+.card__overlay:hover::before, .card__overlay:focus::before {
+  content: none; 
+}
+
+.card:nth-child(1) .card__overlay {
+    background: linear-gradient(45deg, #e91e63, #ffeb3b);
+
+}
+
+@keyframes mymove {
+                25% {
+                   background: linear-gradient(45deg, #e91e63, #ffeb3b);border-radius: 20px;opacity:1;
+                }
+                50%{
+                    background-image: linear-gradient(45deg, #ccff00, #09afff);
+                }
+                100%{
+              background-image: linear-gradient(45deg, #3503ad, #f7308c);
+                }
+            }
+
+.card__content {
+  z-index: 1;
+  padding: 20px;
+  line-height: 1.4;
+  opacity: 0;
+  visibility: hidden;
+  box-sizing: border-box;
+  pointer-events: none;
+  transition: 0s;
+
+}
+.card__overlay:hover ~ .card__content {
+  opacity: 1;
+  visibility: visible;
+  transition: 0.2s 0.3s;
+}
+.card__content h2 {
+  margin: 0;
+  margin-bottom: 16px;
+}
+
+.btn {
+  cursor: pointer;
+  margin-top: 1.5rem;
+  padding: 0.75rem 1.5rem;
+  font-size: 0.65rem;
+  font-weight: bold;
+  letter-spacing: 0.025rem;
+  text-transform: uppercase;
+  color: white;
+  background-color: black;
+  border: none;
+}
+.btn:hover {
+  background-color: #0d0d0d;
+}
+.btn:focus {
+  outline: 1px dashed yellow;
+  outline-offset: 3px;
+}
+          </style>
+         <div class="container">
+  <ul class="cards">
+    <li class="card cards__item">
+      <div class="card__frame">
+       <div class="card__picture">
+          <img src="code.jpg" alt="" width="260"></img>
+        </div>
+ 
+      </div>
+      <div class="card__overlay"></div>
+      <div class="card__content">
+        
+        <p>Asperiores, harum dignissimos at neque quaerat, temporibus praesentium, ut ratione facere rem distinctio, beatae omnis officiis illum animi.</p>
+        <button class="btn">Book Now</button>
+      </div>
+    </li>
+  </ul>
+</div>
+        </div>
+    </foreignObject>
+</svg>
