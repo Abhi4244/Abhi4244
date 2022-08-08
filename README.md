@@ -7,7 +7,7 @@
 <h3 ><a href="https://www.amazon.in/Code-Tech-beginners-programming-Programming-ebook/dp/B09WRQ42XV/">Buy Now!</a></h3>
   <h3><a href="https://astrofrank.ml/preview-ct1.html">Details</a></h3>
 </div>
-<p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country</p>
+<p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country only @210/- or just at $2.99</p>
 <br>
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from 🇮🇳</h1>
 
