@@ -1,14 +1,5 @@
 
-#HARGHARTIRANGA
-<h1 align="center">Independence Day Offer!!</h1><br><img src="flag.gif"width="100%"height="290vh" >
-<h1 align="center">Get this book of web dev. @ 50% off !!</h1><h2 align="center">From Aug 12 - Aug 19 2022 </h2>
- <div align="center">
-    <img src="code.jpg" width="350" height="400" alt="css-in-readme"><br>
-<h3 ><a href="https://www.amazon.in/Code-Tech-beginners-programming-Programming-ebook/dp/B09WRQ42XV/">Buy Now!</a></h3>
-  <h3><a href="https://astrofrank.ml/preview-ct1.html">Details</a></h3>
-</div>
-<p align="center"> Give yourself a gift of learning frontend website development this independence day for a better and brighter future of our country only @210/- or just at $2.99</p>
-<br>
+
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from 🇮🇳</h1>
 
 
@@ -67,7 +58,7 @@
 
 <br><hr>
 
-<h2>Paying tribute to Netaji Subhash Chandra Bose on his 125 birthday:---</h2>
+<h2>A tribute to Netaji Subhash Chandra Bose on his 125 birthday:---</h2>
 <br><hr>
 <img src="nation.jpg" >
 <h3><a href ="https://en.wikipedia.org/wiki/Subhas_Chandra_Bose" style="font-size:50px;">Find out More🔎</a></h3>
