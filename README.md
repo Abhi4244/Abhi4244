@@ -1,7 +1,7 @@
 
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from 	:india:</h1>
-
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="28"height="30" > Hi, I’m @Abhi4244 from भारत</h1>
+<pre>                                                              :india:<pre>
 
 <br><hr>
 
@@ -16,12 +16,8 @@
   <img src="https://profile-counter.glitch.me/abhi4244/count.svg" /></h2>
 </p>
 
-<hr>
-
   <h1>Live STATS.🖥️📊</h1>
-  </br>
-  
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi4244&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br><hr><br>
+  </br> 
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=github_dark)
 <br><hr><br>
@@ -34,8 +30,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
 <hr><br>
 
-  
-  
 <h1>✨ Special ✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical&hide_border=true&show_owner=true" />
@@ -46,12 +40,7 @@
 
 <h1>🧰 Languages and Tools: </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" >
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Javascript">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Javascript"  >
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" >
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" > <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" > <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Javascript"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Javascript"  > <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" ><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
  </p>
 
 <a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhi4244&custom_title=Abhinav%20Ahluwalia's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
