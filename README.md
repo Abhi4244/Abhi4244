@@ -13,7 +13,7 @@
   <img src="https://profile-counter.glitch.me/abhi4244/count.svg" /></h2>
 </p>
 
-  <h1>My STATS.🖥️📊</h1>
+  <h1>STATS.🖥️📊</h1>
   </br> 
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=github_dark)
@@ -22,10 +22,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi4244&theme=cobalt&hide_border=true&layout=compact)](https://github.com/abhi4244/github-readme-stats)
 <br><hr>
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br>
+<!--  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi4244&theme=dark)<br>
 <b>🔥 Github Streaks</b><br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
-<hr><br>
+<hr><br>-->
 
 <h1>✨Serious Projects✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
@@ -33,6 +33,9 @@
   </a><br><br>
   <a href="https://github.com/abhi4244/web001" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=web001&theme=radical&hide_border=true&show_owner=true">
+  </a><br><br>
+  <a href="https://github.com/abhi4244/website" style="margin:30px;display:inline;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=website&theme=radical&hide_border=true&show_owner=true" />
   </a><br><br>
 <hr>
 
