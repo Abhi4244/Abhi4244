@@ -34,8 +34,8 @@
   <a href="https://github.com/abhi4244/web001" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=web001&theme=radical&hide_border=true&show_owner=true">
   </a><br><br>
-  <a href="https://github.com/abhi4244/website" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=website&theme=radical&hide_border=true&show_owner=true" />
+  <a href="https://github.com/abhi4244/PWA" style="margin:30px;display:inline;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
   </a><br><br>
 <hr>
 
