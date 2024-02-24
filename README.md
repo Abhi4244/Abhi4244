@@ -7,11 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?!color=%2336BCF7&size=55&duration=5500&vCenter=true&width=1500&height=60&lines=A+passionate+programmer+%F0%9F%8C%9F+and+web+developer+%F0%9F%92%A0;%F0%9F%91%80+Interested+in+robotics+%F0%9F%A4%96+astronomy+%F0%9F%8C%8C;and+cool+science+%E2%9A%9B;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
 <br><hr>
- <p align="center"> 
-  
-  <h2 align="center">Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/abhi4244/count.svg" /></h2>
-</p>
+ 
 
   <h1>STATS.🖥️📊</h1>
   </br> 
@@ -47,7 +43,11 @@
 
 
 <br><hr>
-
+<p align="center"> 
+  
+  <h2 align="center">Visitor count<br><br>
+  <img src="https://profile-counter.glitch.me/abhi4244/count.svg" /></h2>
+</p>
 <!--<h2>A tribute to Netaji Subhash Chandra Bose on his 125 birthday:---</h2>
 <br><hr>
 <img src="nation.jpg" >
