@@ -23,7 +23,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhi4244&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
 <hr><br>-->
 
-<h1>✨Serious Projects✨</h1><br>
+<h1>Serious Projects✨</h1><br>
 <a href="https://github.com/abhi4244/210966" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhi4244&repo=210966&theme=radical&hide_border=true&show_owner=true" />
   </a><br><br>
